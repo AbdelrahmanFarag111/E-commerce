@@ -1,6 +1,6 @@
-# commerce
+# ecommercecourse
 
-A new Flutter project.
+Ecommerce App
 
 ## Getting Started
 

@@ -1,6 +1,5 @@
-
-import '../../../core/constant/imgaeasset.dart';
-import '../../model/onboardingmodel.dart';
+import 'package:ecommercecourse/core/constant/imgaeasset.dart';
+import 'package:ecommercecourse/data/model/onboardingmodel.dart';
 
 List<OnBoardingModel> onBoardingList = [
   OnBoardingModel(
@@ -18,9 +17,9 @@ List<OnBoardingModel> onBoardingList = [
       body:
           "We Have a 100k Product , Choose \n Your Product From Our E-commerce Shop",
       image: AppImageAsset.onBoardingImageThree),
-  OnBoardingModel(
-      title: "Fast Delivery",
-      body:
-          "We Have a 100k Product , Choose \n Your Product From Our E-commerce Shop",
-      image: AppImageAsset.onBoardingImageFour),
+  // OnBoardingModel(
+  //     title: "Fast Delivery",
+  //     body:
+  //         "We Have a 100k Product , Choose \n Your Product From Our E-commerce Shop",
+  //     image: AppImageAsset.onBoardingImageFour),
 ];
